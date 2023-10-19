@@ -1,7 +1,6 @@
 <script>
   /** @type {import('./$types').PageData} */
   import { enhance } from "$app/forms"
-
   export let data
 </script>
 
